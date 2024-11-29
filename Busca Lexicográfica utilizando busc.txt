@@ -1,0 +1,8 @@
+Busca Lexicográfica utilizando busca em arvore binária
+grupo
+André Ventura
+André Michel
+Bruno Henrique
+Eduardo Alves
+Danilo Alves
+Valcir Jr.
